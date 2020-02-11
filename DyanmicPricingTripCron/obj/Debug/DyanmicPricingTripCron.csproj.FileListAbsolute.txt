@@ -1,0 +1,17 @@
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\bin\Debug\DyanmicPricingTripCron.exe.config
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\bin\Debug\DyanmicPricingTripCron.exe
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\bin\Debug\DyanmicPricingTripCron.pdb
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\bin\Debug\System.Security.AccessControl.dll
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\bin\Debug\System.Security.Permissions.dll
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\bin\Debug\System.Security.Principal.Windows.dll
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\bin\Debug\System.Security.AccessControl.xml
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\bin\Debug\System.Security.Permissions.xml
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\bin\Debug\System.Security.Principal.Windows.xml
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\obj\Debug\DyanmicPricingTripCron.csprojAssemblyReference.cache
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\obj\Debug\DyanmicPricingTripCron.csproj.CoreCompileInputs.cache
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\obj\Debug\DyanmicPricingTripCron.csproj.CopyComplete
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\obj\Debug\DyanmicPricingTripCron.exe
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\obj\Debug\DyanmicPricingTripCron.pdb
+F:\DynamicPricingTripCron\DyanmicPricingTripCron\DyanmicPricingTripCron\bin\Debug\MySql.Data.dll
